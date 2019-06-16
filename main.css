@@ -1,0 +1,32 @@
+body {
+  background-image: url(images/wallpaper.jpg);
+  background-repeat: repeat;
+}
+
+body,
+h1,
+h3,
+p {
+  font-family: Helvetica, Arial;
+}
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+hr {
+  width: 600px;
+  border-bottom: 1px solid black;
+}
+
+p {
+  text-align: center;
+}
+
+.quote-box {
+  border: 1px dashed black;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
